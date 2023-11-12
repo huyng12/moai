@@ -6,7 +6,8 @@
 		"core",
 		"docs",
 		"gallery",
-		"test"
+		"test",
+		"website"
 	],
 	"scripts": {
 		"build-core": "cd core && yarn _build",

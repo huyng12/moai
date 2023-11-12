@@ -1,6 +1,5 @@
 import { background, Border } from "@moai/core";
 import { Gallery } from "@moai/gallery";
-import "@moai/gallery/dist/bundle.css";
 import { Hero } from "../components/hero/hero";
 import { Toolbar } from "../components/toolbar/toolbar";
 import s from "./index.module.css";

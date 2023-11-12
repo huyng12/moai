@@ -1,5 +1,6 @@
 import "@moai/core/dist/font/local.css";
 import "@moai/core/dist/bundle.css";
+import "@moai/gallery/dist/bundle.css";
 import { AppProps } from "next/app";
 import Head from "next/head";
 import { ThemeProvider } from "next-themes";
