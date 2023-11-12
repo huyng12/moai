@@ -18,7 +18,7 @@ export const Hero = (): JSX.Element => (
 				iconRight
 				highlight
 				children="Docs"
-				href="https://docs.moaijs.com"
+				href="https://huyng12-moai-legacy-docs.vercel.app"
 			/>
 			<DivPx size={16} />
 			<Button
