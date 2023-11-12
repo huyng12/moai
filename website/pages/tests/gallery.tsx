@@ -1,5 +1,4 @@
 import { Gallery } from "@moai/gallery";
-import "@moai/gallery/dist/bundle.css";
 
 const GalleryPage = (): JSX.Element => (
 	<div>

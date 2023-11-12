@@ -1,4 +1,3 @@
-import "@moai/gallery/dist/bundle.css";
 import dynamic from "next/dynamic";
 
 const DynamicGallery = dynamic<Record<string, never>>(() =>
